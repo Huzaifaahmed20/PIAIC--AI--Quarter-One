@@ -1,0 +1,4 @@
+name 	 cell_no	cnic
+hamza 	 1 		 1
+ali 	 2 		 2
+osama 	 3 		 3
